@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Mis Mapas</string>
+    <string name="ir_SagradaFamilia">Sagrada Familia</string>
+    <string name="ir_Montserrat">Montserrat</string>
+    <string name="ir_Born">Born</string>
+    <string name="ir_Rambla">Rambla</string>
+    <string name="title_activity_born">Mapa del Born</string>
+    <string name="title_activity_sagradafamilia">Mapa de la Sagrada Familia</string>
+    <string name="title_activity_montserrat">Mapa de Montserrat</string>
+    <string name="title_activity_rambla">Mapa de La Rambla</string>
+</resources>
